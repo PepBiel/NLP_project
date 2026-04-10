@@ -191,6 +191,7 @@ modelo_resumen_t5_final
 .
 ├── Fornes_Reynes_JosepGabriel.ipynb
 ├── Fornes_Reynes_JosepGabriel.pdf
+├── proyecto_práctico_DL4NLP_24-25.pdf
 ├── Fornes_Reynes_JosepGabriel_LIMPIO.ipynb
 └── README.md
 ```
